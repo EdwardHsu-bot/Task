@@ -1,0 +1,23 @@
+
+DeviceID     : C:
+DriveType    : 3
+ProviderName : 
+FreeSpace    : 405768159232
+Size         : 511387254784
+VolumeName   : 
+
+DeviceID     : D:
+DriveType    : 3
+ProviderName : 
+FreeSpace    : 180425150464
+Size         : 2000396800000
+VolumeName   : 
+
+DeviceID     : E:
+DriveType    : 3
+ProviderName : 
+FreeSpace    : 1092163649536
+Size         : 2000397791232
+VolumeName   : GameLibrary
+
+

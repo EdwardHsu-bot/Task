@@ -1,0 +1,74 @@
+
+
+AdminPasswordStatus         : 
+BootupState                 : 
+ChassisBootupState          : 
+KeyboardPasswordStatus      : 
+PowerOnPasswordStatus       : 
+PowerSupplyState            : 
+PowerState                  : 
+FrontPanelResetStatus       : 
+ThermalState                : 
+Status                      : 
+Name                        : DESKTOP-JH37TI0
+PowerManagementCapabilities : 
+PowerManagementSupported    : 
+Caption                     : 
+Description                 : 
+InstallDate                 : 
+CreationClassName           : 
+NameFormat                  : 
+PrimaryOwnerContact         : 
+PrimaryOwnerName            : 
+Roles                       : 
+InitialLoadInfo             : 
+LastLoadInfo                : 
+ResetCapability             : 
+AutomaticManagedPagefile    : 
+AutomaticResetBootOption    : 
+AutomaticResetCapability    : 
+BootOptionOnLimit           : 
+BootOptionOnWatchDog        : 
+BootROMSupported            : 
+BootStatus                  : 
+ChassisSKUNumber            : 
+CurrentTimeZone             : 
+DaylightInEffect            : 
+DNSHostName                 : 
+Domain                      : 
+DomainRole                  : 
+EnableDaylightSavingsTime   : 
+HypervisorPresent           : 
+InfraredSupported           : 
+Manufacturer                : 
+Model                       : 
+NetworkServerModeEnabled    : 
+NumberOfLogicalProcessors   : 
+NumberOfProcessors          : 
+OEMLogoBitmap               : 
+OEMStringArray              : 
+PartOfDomain                : 
+PauseAfterReset             : 
+PCSystemType                : 
+PCSystemTypeEx              : 
+ResetCount                  : 
+ResetLimit                  : 
+SupportContactDescription   : 
+SystemFamily                : 
+SystemSKUNumber             : 
+SystemStartupDelay          : 
+SystemStartupOptions        : 
+SystemStartupSetting        : 
+SystemType                  : 
+TotalPhysicalMemory         : 
+UserName                    : DESKTOP-JH37TI0\Edward
+WakeUpType                  : 
+Workgroup                   : 
+PSComputerName              : 
+CimClass                    : root/cimv2:Win32_ComputerSystem
+CimInstanceProperties       : {Caption, Description, InstallDate, Name…}
+CimSystemProperties         : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
+
