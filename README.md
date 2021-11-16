@@ -1,0 +1,14 @@
+# Task-01
+curl https://jsonplaceholder.typicode.com/todos/1
+
+curl https://jsonplaceholder.typicode.com/todos/1 | out-file .\task01.txt
+
+get-content .\task01.txt | select-string "userid","status"
+
+git add task01.txt
+
+git commit -m "master commit" task01.txt
+
+git push https://github.com/EdwardHsu-bot/Task.git master
+
+#Task-02
