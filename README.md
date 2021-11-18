@@ -15,8 +15,13 @@ git push https://github.com/EdwardHsu-bot/Task.git master
 # Task-02
 $env:COMPUTERNAME | out-file .\computername.txt
 
-Get-CimInstance -ClassName Win32_LogicalDisk -Filter "DriveType=3" | fl |out-file .\disk.txt
+Get-CimInstance -ClassName Win32_LogicalDisk -Filter "DriveType=3" | Format-List |out-file .\disk.txt
 
 Get-CimInstance -ClassName Win32_ComputerSystem -Property UserName| Out-File .\user.txt
 
 # Task-03
+Set-Location D:\Task
+
+Get-ChildItem | Out-File .\list.txt
+
+Get-Content list.txt
