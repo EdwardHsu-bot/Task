@@ -27,7 +27,8 @@ Get-ChildItem | Out-File .\list.txt
 Get-Content list.txt
 
 # Task-04
-function read-test {
+function read-test 
+{
     param (
         [Parameter()]
         $mywd= "D:\Task"
