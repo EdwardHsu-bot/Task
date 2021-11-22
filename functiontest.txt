@@ -1,0 +1,15 @@
+
+    Directory: D:\Task
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2021/11/16    17:46             17 computername.txt
+-a---          2021/11/16    17:46            411 disk.txt
+-a---          2021/11/22    15:21            194 function
+-a---          2021/11/22    15:21              0 functiontest.txt
+-a---          2021/11/22    12:42            637 list.txt
+-a---          2021/11/18    16:46             83 readlist.ps1
+-a---          2021/11/18    16:49            695 README.md
+-----          2021/11/16    17:49             90 task01.txt
+-a---          2021/11/16    17:46           2355 user.txt
+
