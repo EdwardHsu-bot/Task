@@ -25,3 +25,17 @@ Set-Location D:\Task
 Get-ChildItem | Out-File .\list.txt
 
 Get-Content list.txt
+
+# Task-04
+function read-test {
+    param (
+        [Parameter()]
+        $mywd= "D:\Task"
+    )
+    Set-Location $mywd
+
+    Get-ChildItem > functiontest.txt
+
+    Get-Content functiontest.txt
+
+}
