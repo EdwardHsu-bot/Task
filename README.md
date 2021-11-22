@@ -40,3 +40,13 @@ function read-test
     Get-Content functiontest.txt
 
 }
+
+# task 05 
+PS D:\Task> cat .\readlist.ps1
+
+Set-Location D:\Task
+
+Get-ChildItem | Out-File .\list.txt
+
+Get-Content list.txt
+PS D:\Task> cat .\readlist.ps1 > read_newlist.ps1
